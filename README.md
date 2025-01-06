@@ -9,10 +9,9 @@ Ce projet a été réalisé pour l’ONG DWFA (Drinking Water For All), dont la 
 **Objectif :**
 ```
 Créer un tableau de bord synthétique permettant d'identifier les pays nécessitant une intervention prioritaire, en tenant compte des trois domaines d'expertise.
-
-- Problématique: Identifier les pays prioritaires en fonction des indicateurs clés (accès à l’eau potable, stabilité politique, mortalité liée à l’eau insalubre, etc.).
-- Solution apportée: Tableau de bord interactif avec 3 niveaux de granularité (mondial, continental, national).
-- Impact attendu: Aider les décideurs de DWFA à cibler les financements pour maximiser leur impact.
+**- Problématique:** Identifier les pays prioritaires en fonction des indicateurs clés (accès à l’eau potable, stabilité politique, mortalité liée à l’eau insalubre, etc.).
+**- Solution apportée:** Tableau de bord interactif avec 3 niveaux de granularité (mondial, continental, national).
+**- Impact attendu:** Aider les décideurs de DWFA à cibler les financements pour maximiser leur impact.
 ```
 **Méthodologie:**
 ```
@@ -22,10 +21,12 @@ Créer un tableau de bord synthétique permettant d'identifier les pays nécessi
         3. Conception des mockups et blueprint.
         4. Réalisation du tableau de bord.
         5. Synthèse et présentation finale.
+
 ◦ B. Objectifs techniques :
         ▪ Création de visualisations impactantes.
         ▪ Intégration de filtres interactifs pour l'exploration des données.
         ▪ Analyse évolutive et agrégations géographiques.
+
 ◦ C. Données et indicateurs clés
     ◦ Sources de données : Données internes DWFA, OMS, FAO, dictionnaire des données fourni.
     ◦ Indicateurs sélectionnés :
@@ -37,16 +38,15 @@ Créer un tableau de bord synthétique permettant d'identifier les pays nécessi
     ◦ Traitements réalisés :
         ▪ Nettoyage des données pour supprimer les anomalies.
         ▪ Agrégation des indicateurs à différents niveaux géographiques.
+
 ◦ D. Mockups et Blueprint:
     ◦ Intégrez des captures ou visuels des mockups réalisés pour les vues (mondiale, continentale,nationale).
-```
     ◦ Décrivez brièvement chaque vue :
         ▪ Vue mondiale :Carte interactive des indicateurs agrégés.
         ▪ Vue continentale :Comparaison entre les continents (diagrammes).
         ▪ Vue nationale : Analyse détaillée des indicateurs d’un pays.
-
+```
 **Résultats finals:**
-
 ```
     ◦ Visualisations clés :
         ▪ Carte du monde avec taux d’accès à l’eau potable.
@@ -65,6 +65,7 @@ Créer un tableau de bord synthétique permettant d'identifier les pays nécessi
         ▪ Analyse multi-niveaux (mondiale, continentale, nationale).
         ▪ Création de visualisations interactives pour la prise de décision.
 ```
+
 **Compétences mises en avant:**
 ```
     ◦ Techniques de data analysis:
