@@ -9,9 +9,9 @@ Ce projet a été réalisé pour l’ONG DWFA (Drinking Water For All), dont la 
 **Objectif :**
 ```
 Créer un tableau de bord synthétique permettant d'identifier les pays nécessitant une intervention prioritaire, en tenant compte des trois domaines d'expertise.
-**- Problématique:** Identifier les pays prioritaires en fonction des indicateurs clés (accès à l’eau potable, stabilité politique, mortalité liée à l’eau insalubre, etc.).
-**- Solution apportée:** Tableau de bord interactif avec 3 niveaux de granularité (mondial, continental, national).
-**- Impact attendu:** Aider les décideurs de DWFA à cibler les financements pour maximiser leur impact.
+- Problématique: identifier les pays prioritaires en fonction des indicateurs clés (accès à l’eau potable, stabilité politique, mortalité liée à l’eau insalubre, etc.).
+- Solution apportée: tableau de bord interactif avec 3 niveaux de granularité (mondial, continental, national).
+- Impact attendu: aider les décideurs de DWFA à cibler les financements pour maximiser leur impact.
 ```
 **Méthodologie:**
 ```
